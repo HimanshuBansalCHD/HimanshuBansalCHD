@@ -31,7 +31,7 @@ Open Source Contributor
 
 💬 Ask me about: Java8, DSA.
 
-📫 How to reach me: [instagram][https://www.instagram.com/himanshu.bansal_/]
+
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 

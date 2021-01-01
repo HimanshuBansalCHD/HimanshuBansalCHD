@@ -35,7 +35,7 @@ Open Source Contributor
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : https://rebrand.ly/click_to_view_resume
+📄 Resume : https://drive.google.com/file/d/1ky4-s3XtM9dBr2VwfKZr5r6PceW0XjHi/view?usp=sharing
 
 ### Languages and Tools-
 

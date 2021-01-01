@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-### Hi there 👋 My name is Himanshu Bansal!!
+### Hey there 👋 I'm Himanshu Bansal !!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/himanshu-bansal-64159915a/)&nbsp;
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a SDE at Amazon.
+Software Engineer at Amazon.
 Skilled in Java8 , DSA.
 Open Source Contributor
 
@@ -29,9 +29,9 @@ Open Source Contributor
 
 🔭 I’m currently working on : Software Develpement.
 
-💬 Ask me about: Java8, Python, Shell Scripting.
+💬 Ask me about: Java8, DSA.
 
-⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
+📫 How to reach me: [instagram][https://www.instagram.com/himanshu.bansal_/]
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 

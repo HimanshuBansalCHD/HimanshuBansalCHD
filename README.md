@@ -66,7 +66,7 @@ Open Source Contributor
 | Anaconda | SpyderIDE | Pycharm | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-![](https://github-readme-stats.vercel.app/api?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=midnight-purple)
+![Himanshu's Stats Card](https://github-readme-stats.vercel.app/api?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=midnight-purple)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
+![Himanshu's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
 

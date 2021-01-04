@@ -10,7 +10,9 @@
 
 <a href="https://www.instagram.com/himanshu.bansal_/">
   <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a><\n>
+
+
 
 <!--
 *HimanshuBansalCHD/HimanshuBansalCHD* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

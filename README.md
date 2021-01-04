@@ -9,8 +9,9 @@
   
 </a>
 
-<a href="https://www.instagram.com/himanshu.bansal_/"><Intsgram>
+<a href="https://www.instagram.com/himanshu.bansal_/">
   <img align="left" alt="Himanshu Bansal Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  "Instagram"
 </a>
 <br></br>
 

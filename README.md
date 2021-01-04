@@ -69,5 +69,3 @@ Open Source Contributor
 ![Himanshu's Stats Card](https://github-readme-stats.vercel.app/api?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=midnight-purple)
 
 ![Himanshu's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuBansalCHD&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

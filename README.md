@@ -2,7 +2,7 @@
 
 ### Hey there 👋 I'm Himanshu Bansal !! Among Amazonion.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/himanshu-bansal-64159915a/)&nbsp; [![Instagram](https://i.stack.imgur.com/gVE0j.png) Instagram](https://www.instagram.com/himanshu.bansal_/)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/himanshu-bansal-64159915a/)&nbsp; [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg) Instagram](https://www.instagram.com/himanshu.bansal_/)&nbsp;
 
 <!--
 *HimanshuBansalCHD/HimanshuBansalCHD* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

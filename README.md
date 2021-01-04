@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-### Hey there 👋 I'm Himanshu Bansal !!
+### Hey there 👋 I'm Himanshu Bansal !! Among Amazonion.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/himanshu-bansal-64159915a/)&nbsp;
 
@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 -->
 
-Software Engineer at Amazon.
-Skilled in Java8 , DSA.
+Software Developement Engineer at Amazon.
+Skilled in Java8 (SE + EE), Data Structures and Alogirthm.
 Open Source Contributor
 
 
-🌱 I’m currently exploring: Android Developement
+🌱 I’m currently exploring: Technology Stack
 
-🔭 I’m currently working on : Software Develpement.
+🔭 I’m currently working on : Software Develpement and Applications
 
-💬 Ask me about: Java8, DSA.
+💬 Ask me about: Java8, DSA (Data Structures and ALgorithms), Big Data & ETL.
 
-
+⚡ Fun fact: Java is used by 95% of the enterprises as their primary language. It is much more than C and the other languages.
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
@@ -40,17 +40,17 @@ Open Source Contributor
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
+| Java8 SE | Java8 EE | C++ | C | SQL |
 | :---: | :---: | :---: | :---: | :---: |
 
 
-| Selenium | C | SQL | Pytorch | Numpy |
+| Python | Matplotlib | Pandas | Numpy |
+| :---: | :---: | :---: | :---: | 
+
+| IntelliJ/VS Code/Eclipse/Netbeans | JDBC | MySQL Server/Oracle DB | IBM Watson | Windows/Linux/Mac |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| Anaconda | SpyderIDE | Pycharm | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
 ![](https://github-readme-stats.vercel.app/api?username=HimanshuBansalCHD&show_icons=true&line_height=30)

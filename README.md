@@ -5,7 +5,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/himanshu-bansal-64159915a/)&nbsp;
 
 <!--
-*bhav09/bhav09* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*HimanshuBansalCHD/HimanshuBansalCHD* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,9 +25,9 @@ Skilled in Java8 (SE + EE), Data Structures and Alogirthm.
 Open Source Contributor
 
 
-🌱 I’m currently exploring: Technology Stack
+🔭 I’m currently exploring: Technology Stack
 
-🔭 I’m currently working on : Software Develpement and Applications
+🌱 I’m currently Learning : Software Develpement and Applications
 
 💬 Ask me about: Java8, DSA (Data Structures and ALgorithms), Big Data & ETL.
 

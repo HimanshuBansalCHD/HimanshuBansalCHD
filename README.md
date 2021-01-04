@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/himanshu-bansal-64159915a/">
-  <img align="left" alt="Himanshu Bansal LinkdeIN" width="22px" src="https://ibb.co/K2PFYs3" />
+  <img align="left" alt="Himanshu Bansal LinkdeIN" width="22px" src="https://drive.google.com/file/d/1SLGx0smywWHq_d6T7K_z7T83Ajo56SW1/view?usp=sharing" />
   
 </a>
 

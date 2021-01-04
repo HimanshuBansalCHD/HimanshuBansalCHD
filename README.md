@@ -4,10 +4,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/himanshu-bansal-64159915a/">
-  <img align="left" alt="Himanshu Bansal LinkdeIN" width="22px" src="https://imgur.com/mB87CXO" />
-  
-</a>
+[![Linkedin](https://imgur.com/mB87CXO) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp;
 
 <a href="https://www.instagram.com/himanshu.bansal_/">
   <img align="left" alt="Himanshu Bansal Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

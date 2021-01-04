@@ -67,4 +67,4 @@ Open Source Contributor
 | :---: | :---: | :---: | :---: | :---: |
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=midnight-purple)

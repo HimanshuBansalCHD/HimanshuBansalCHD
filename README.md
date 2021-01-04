@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ptXfH1PfCNZ55UZEaI/giphy.gif" width="360"/>
 
 ### Hey there 👋 I'm Himanshu Bansal !! Among Amazonion.
 
@@ -47,7 +47,7 @@ Open Source Contributor
 | Python | Matplotlib | Pandas | Numpy |
 | :---: | :---: | :---: | :---: | 
 
-| IntelliJ/VS Code/Eclipse/Netbeans | JDBC | MySQL Server/Oracle DB | IBM Watson | Windows/Linux/Mac |
+| IntelliJ/VS Code/Eclipse/Netbeans | JDBC | MySQL Server/Oracle DB | IBM Watson | Windows/Linux/Mac OS |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Anaconda | SpyderIDE | Pycharm | Jupyter Notebook | Github |

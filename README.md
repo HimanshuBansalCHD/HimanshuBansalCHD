@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/soTEDPQv7ffmACFapJ/giphy.gif" width="360"/>
 
-### Hey there 👋 I'm Himanshu Bansal !! Among Amazonion.
+### Hey there 👋 I'm Himanshu Bansal !!
 
 
 
@@ -70,3 +70,4 @@ Open Source Contributor
 
 ![Himanshu's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBansalCHD&show_icons=true&line_height=30&theme=chartreuse-dark&layout=compact)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuBansalCHD&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

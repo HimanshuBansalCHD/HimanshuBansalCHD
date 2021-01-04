@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 Software Developement Engineer at Amazon.
-Skilled in Java8 (SE + EE), Data Structures and Alogirthm.
+Skilled in Java8 (SE + EE), DSA (Data Structures and Alogirthm).
 Open Source Contributor
 
 

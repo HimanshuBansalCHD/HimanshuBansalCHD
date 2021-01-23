@@ -4,7 +4,7 @@
 
 
 
-<a href="https://www.instagram.com/himanshu.bansal_/">
+<a href="https://www.linkedin.com/in/himanshu-bansal-64159915a/">
   <img align="left" alt="Himanshu Bansal Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
   
 </a>

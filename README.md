@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 -->
 
+![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
+
 Software Developement Engineer at Amazon.
 Skilled in Java8 (SE + EE), DSA (Data Structures and Alogirthm).
 Open Source Contributor
